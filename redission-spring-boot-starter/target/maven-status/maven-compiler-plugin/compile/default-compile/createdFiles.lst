@@ -1,0 +1,4 @@
+com\springboot\redisson\RedissonAutoConfiguration.class
+com\springboot\redisson\RedissonProperties.class
+META-INF\spring-configuration-metadata.json
+com\springboot\App.class
